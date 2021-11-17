@@ -1,0 +1,8 @@
+node_modules
+build
+app/src/contracts
+.DS_Store
+*.swp
+coverage
+coverage.json
+coverageEnv
